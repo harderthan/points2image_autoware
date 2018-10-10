@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>points2image_by_autoware</name>
+  <version>0.0.1</version>
+  <description>The points2image package. This project is from Autoware project</description>
+
+  <maintainer email="kheo1772@gmail.com">harderthan</maintainer>
+
+  <url type="github">https://github.com/harderthan/dataset2rosbag</url>
+
+  <license>BSD 3-Clause</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <export></export>
+</package>
